@@ -14,7 +14,7 @@ function Hero() {
             <p className="opis">
               I'm 21 years old, I come from Poland, currently live in Scotland
               but my goal is to work remotely from my homeland
-              <FaHeart className="ms-1" />
+              <FaHeart color="red" className="ms-1" />
             </p>
             <p className="email">
               <MdEmail size={25} /> --&gt; kamilkolodziej022@gmail.com
